@@ -1,0 +1,4 @@
+Pin: pin-3.4-97438-f90d1f746
+Copyright (c) 2003-2017, Intel Corporation. All rights reserved.
+A:  Source/pin/elfio/img_elf.cpp: ProcessSectionHeaders: 775: unknown section type 19 for sec[42,.relr.dyn] in /lib64/ld-linux-x86-64.so.2
+
